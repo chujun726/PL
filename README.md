@@ -11,5 +11,6 @@
 ## 作業連結區
 *  [作業1](https://github.com/chujun726/PL/blob/main/HW1/HW1.ipynb) [影片](https://youtu.be/yaDS62GJb0U)
 *  [作業2](https://github.com/chujun726/PL/blob/main/HW2/HW2.ipynb)
+*  [作業3](https://github.com/chujun726/PL/tree/main/HW3) [影片](https://youtu.be/ZMb_k5W8jBE)
 
 ## 專題連結區
